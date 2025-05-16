@@ -1,0 +1,23 @@
+{
+  "name": "pedra_papel_ou_tesoura",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shreesoni520/Pedra_Papel_ou_Tesoura.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shreesoni520/Pedra_Papel_ou_Tesoura/issues"
+  },
+  "homepage": "https://github.com/Shreesoni520/Pedra_Papel_ou_Tesoura#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
