@@ -49,3 +49,6 @@ if (humanChoice == computerChoice) {
   console.log("Score: Human " + humanScore + " - Computer " + computerScore);
 }
 
+function playGame() {
+    
+}
